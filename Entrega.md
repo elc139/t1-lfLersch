@@ -6,7 +6,7 @@ Nome: < preencha seu nome aqui >
 | Característica                                            | Computador no TOP500  | Meu computador  |
 | --------------------------------------------------------- | --------------------- | --------------- |
 | Nome/Título                                               |      IBM Summit       |  Acer Aspire 5  |
-| Imagem (foto, diagrama, screenshot, etc.)                 |<img src="https://tecnogamesbrasil.com.br/wp-content/uploads/2018/06/Summit-Supercomputador-mais-poderoso-do-mundo-j%C3%A1-est%C3%A1-em-opera%C3%A7%C3%A3o.jpg" width="48"> |<img src="https://tecnogamesbrasil.com.br/wp-content/uploads/2018/06/Summit-Supercomputador-mais-poderoso-do-mundo-j%C3%A1-est%C3%A1-em-opera%C3%A7%C3%A3o.jpg" width="48">|
+| Imagem (foto, diagrama, screenshot, etc.)                 |<img src="https://tecnogamesbrasil.com.br/wp-content/uploads/2018/06/Summit-Supercomputador-mais-poderoso-do-mundo-j%C3%A1-est%C3%A1-em-opera%C3%A7%C3%A3o.jpg" width="100"> |<img src="https://www.saldaodainformatica.com.br/3386-thickbox_default/notebook-acer-a515-51g-58vh-intel-core-i5-7200u-h22-8gb-nvidia-2gb-1tb-tela-156-windows-10.jpg" width="100">|
 | Classificação de Flynn                                    |        MIMD           |      MIMD       |
 | Memória: compartilhada, distribuída ou ambas?             |       Ambas           |  Compartilhada  |
 | Número total de núcleos de processamento                  |      2,414,592        |  2 (4 threads)  |
