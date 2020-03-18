@@ -6,7 +6,7 @@ Nome: < preencha seu nome aqui >
 | Característica                                            | Computador no TOP500  | Meu computador  |
 | --------------------------------------------------------- | --------------------- | --------------- |
 | Nome/Título                                               |      IBM Summit       |  Acer Aspire 5  |
-| Imagem (foto, diagrama, screenshot, etc.)                 | Substitua-me. <img src="http://www.top500.org/static//images/Top500_logo.png" width="48"> | Substitua-me. <img src="http://www.top500.org/static//images/Top500_logo.png" width="48">|
+| Imagem (foto, diagrama, screenshot, etc.)                 |<img src="https://tecnogamesbrasil.com.br/wp-content/uploads/2018/06/Summit-Supercomputador-mais-poderoso-do-mundo-j%C3%A1-est%C3%A1-em-opera%C3%A7%C3%A3o.jpg" width="48"> |<img src="https://tecnogamesbrasil.com.br/wp-content/uploads/2018/06/Summit-Supercomputador-mais-poderoso-do-mundo-j%C3%A1-est%C3%A1-em-opera%C3%A7%C3%A3o.jpg" width="48">|
 | Classificação de Flynn                                    |        MIMD           |      MIMD       |
 | Memória: compartilhada, distribuída ou ambas?             |       Ambas           |  Compartilhada  |
 | Número total de núcleos de processamento                  |      2,414,592        |  2 (4 threads)  |
@@ -17,7 +17,8 @@ Nome: < preencha seu nome aqui >
 | Desempenho Linpack                                        |         148,600 Tflop/s                |     0.055Tflop/s            |
 
 ### Referências
-- Complete aqui: Autor (nome de pessoa ou instituição). Título. URL.
-- Complete aqui: Autor (nome de pessoa ou instituição). Título. URL.
-- Complete aqui: Autor (nome de pessoa ou instituição). Título. URL.
-- ...
+- https://www.top500.org/system/179397
+- https://pt.wikipedia.org/wiki/Intel_QuickPath_Interconnect
+- https://www.adonaimedrado.pro.br/principal/index.php?option=com_content&view=article&id=57&Itemid=92
+- https://linx.en.lo4d.com/windows
+- https://pt.wikipedia.org/wiki/Taxonomia_de_Flynn
