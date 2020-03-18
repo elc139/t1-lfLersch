@@ -1,7 +1,7 @@
 TOP500 & me: Comparativo de Arquiteturas Paralelas
 --------------------------------------------------
 
-Nome: < Luiz Felipe Lersch >
+Nome:  Luiz Felipe Lersch 
 
 | Característica                                            | Computador no TOP500  | Meu computador  |
 | --------------------------------------------------------- | --------------------- | --------------- |
